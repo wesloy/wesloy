@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wesloy
 - 👀 I’m interested in ... c#, back-end, js
-- 🌱 I’m currently learning ... vue.js and front-end
+- 🌱 I’m currently learning ... vue.js (front-end) and Golang (back-end)
 - 💞️ I’m looking to collaborate on ...projects .net core on my job
 - 📫 How to reach me ... https://www.linkedin.com/in/wesley-eloy/
 
