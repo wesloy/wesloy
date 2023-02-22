@@ -2,7 +2,7 @@
 wesloy/wesloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Um pouco sobre mim:
+### Um pouco sobre mim:
 - 👋 Olá, eu me chamo Weley Eloy (@wesloy)
 - 👀 Sou extremamente interessado em c# e Go Lang e suas aplicabilidades no mundo back-end.
 - 🌱 Sempre busco aprender mais e atualmente Vue, Angular e Flutter estão entre os que estou dando foco.
@@ -19,14 +19,14 @@ You can click the Preview link to take a look at your changes.
  <br>
 
 
-## Meu Skill back-end:
+### Meu Skill back-end:
 <div style="display: inline_block">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
     </div>
   <br>
   
-  ## Meu Skill front-end:
+### Meu Skill front-end:
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   </div>
   <br>
   
-  ## Meu Skill Database:
+### Meu Skill Database:
 <div style="display: inline_block">
   <img align="center" alt="Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   </div>
   <br>
   
-  ## Meu Skill Frameworks, Ferramentas e Bibliotecas:
+### Meu Skill Frameworks, Ferramentas e Bibliotecas:
 <div style="display: inline_block">
   <img align="center" alt="dot-net-core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -55,6 +55,6 @@ You can click the Preview link to take a look at your changes.
     </div>
   <br>
   
-## Apesar de ser um *repositório pessoal* e usado para estudos essas são minhas contribuíções:
+### Apesar de ser um *repositório pessoal* e usado para estudos essas são minhas contribuíções:
 <img src="https://github-readme-stats.vercel.app/api?username=wesloy&show_icons=true&theme=ligth&include_all_commits=true">
 <br>
