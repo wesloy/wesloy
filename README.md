@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Olá, eu me chamo Weley Eloy (@wesloy)
 - 👀 Sou extremamente interessado em c# e Go Lang e suas aplicabilidades no mundo back-end.
 - 🌱 Sempre busco aprender mais e atualmente Vue, Angular e Flutter estão entre os que estou dando foco.
-- 💞️ Atuo como desenvolvedor C#, com framework .Net e atualmente faço algumas manutenções me Java.
+- 💞️ Atuo como desenvolvedor C#, com framework .Net e atualmente faço algumas manutenções em Java.
 
 
 > Meus contatos:
