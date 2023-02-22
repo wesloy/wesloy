@@ -42,17 +42,19 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
-    </div>
+  <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+  </div>
   <br>
   
-    ## Meu Skill Frameworks, Ferramentas e Bibliotecas:
+  ## Meu Skill Frameworks, Ferramentas e Bibliotecas:
 <div style="display: inline_block">
   <img align="center" alt="dot-net-core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="vstudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+   <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
     </div>
   <br>
   
-> Apesar de ser um *repositório pessoal* e usado para estudos essas são minhas contribuíções:
+## Apesar de ser um *repositório pessoal* e usado para estudos essas são minhas contribuíções:
 <img src="https://github-readme-stats.vercel.app/api?username=wesloy&show_icons=true&theme=ligth&include_all_commits=true">
 <br>
